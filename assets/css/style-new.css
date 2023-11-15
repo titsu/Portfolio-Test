@@ -2048,7 +2048,7 @@ main.touch .main-wrap {
 }
 
 .single-about-image {
-   width: 100%;
+   width: 65%;
    display: block;
    background: var(--color-lightgray);
    overflow: hidden;
